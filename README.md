@@ -28,7 +28,7 @@ In ```./data/puzzle.csv``` there is already an example sudoku puzzle that shows 
 ~ $ cd SudokuSolver
 
 // Run the executable
-~/SudokuSolver $ bin/project data/input.csv
+~/SudokuSolver $ bin/solution data/input.csv
 ```
 
 Please note that ```data/input.csv``` can be changed to the filepath containing any Sudoku puzzle that you wish to solve, given that it is in the correct format.
