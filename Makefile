@@ -7,7 +7,7 @@ CC := g++ # This is the main compiler
 SRCDIR := src
 BUILDDIR := build
 BINDIR := bin
-TARGET := $(BINDIR)/project
+TARGET := $(BINDIR)/solution
  
 SRCEXT := cpp
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))
