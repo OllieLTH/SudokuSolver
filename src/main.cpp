@@ -2,8 +2,8 @@
 //  main.cpp
 //  SudokuSolverCPP
 //
-//  Created by Ollie Harvey on 24/03/2020.
-//  Copyright © 2020 Ollie Harvey. All rights reserved.
+//  Created by OllieLTH on 24/03/2020.
+//  Copyright © 2020 OllieLTH. All rights reserved.
 //
 
 #include <ctime>
