@@ -2,8 +2,8 @@
 //  InputHandler.hpp
 //  SudokuSolverCPP
 //
-//  Created by Ollie Harvey on 25/03/2020.
-//  Copyright © 2020 Ollie Harvey. All rights reserved.
+//  Created by OllieLTH on 25/03/2020.
+//  Copyright © 2020 OllieLTH. All rights reserved.
 //
 
 #ifndef InputHandler_hpp
