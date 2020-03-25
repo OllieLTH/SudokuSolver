@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Ignore Mac specific files
+*.DS_Store
+
 # Executables
 *.exe
 *.out
