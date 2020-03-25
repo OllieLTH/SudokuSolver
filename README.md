@@ -21,7 +21,7 @@ For OSX users
 
 ## Running the solver 
 
-In ```./data/puzzle.csv``` there is already an example sudoku puzzle that shows how the puzzle should be written as a ```.csv``` in order to be compatible with the solver, this can either be edited or new puzzles can be added in addition to it.  Once the program has been downloaded and installed it can be run like so.
+In ```./data/puzzle.csv``` there is already an example sudoku puzzle that shows how the puzzle should be written as a ```.csv``` in order to be compatible with the solver.  It is possible to edit this existing puzzle, or write new ones, in the same format.  Once the program has been downloaded and installed it can be run like so.
 
 ```
 // Go to SudokuSolver directory
