@@ -1,6 +1,6 @@
 # SudokuSolver
 
-A command line application to solve regular sudoku problems (https://en.wikipedia.org/wiki/Sudoku) of any difficulty level.  The application is written in C++ and uses a backtracking algorithm.  It has been tested and works on OSX.
+A command line application to solve regular Sudoku problems (https://en.wikipedia.org/wiki/Sudoku) of any difficulty level.  The application is written in C++ and uses a backtracking algorithm.  It has been tested and works on OSX.
 
 The purpose of this application is not to be the worlds most efficient solver, it was merely an exercise in learning how to use github, makefiles and generally practise object-oriented coding.
 
